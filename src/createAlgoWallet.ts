@@ -1,6 +1,6 @@
 import * as algosdk from "algosdk";
 
-function createAccount(): void {
+const createAccount = (): void => {
 
 
     const account = algosdk.generateAccount();

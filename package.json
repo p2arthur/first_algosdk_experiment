@@ -13,6 +13,9 @@
     "vite": "^3.2.3"
   },
   "dependencies": {
-    "algosdk": "^2.1.0"
+    "algosdk": "^2.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ts-node": "^10.9.1"
   }
 }
